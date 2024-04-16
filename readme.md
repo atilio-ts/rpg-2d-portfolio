@@ -1,6 +1,6 @@
 # RPG Portfolio
 
-Inspired by JSLegendDev video, I created my own RPG like 2D Portfolio.
+Inspired by JSLegendDev video, I created my own RPG like 2D Portfolio using javascript and the KaboomJS library.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
