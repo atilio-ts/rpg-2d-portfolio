@@ -1,23 +1,65 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-    pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-      I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-      Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-    "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-    "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-    I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-    You'll learn how I built this portfolio you're currently playing through!`,
-    tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-     <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-    <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-    bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-    resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-    Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-    projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-    Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-    Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-    library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-    I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-    exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+  exit: `If you want to exit just close the tab.`,
+
+  resume: `Hey! you found my resume. <a href="https://github.com/atilio-ts/resume/blob/main/en.pdf" target="_blank">Check it out?</a>.
+  If you liked it you can contact me at <a href="mailto:atiliovg94@gmail.com" target="_blank">atiliovg94@gmail.com</a>.`,
+
+  "portfolio-website": `Hey! you found my portfolio website. <a href="https://atilio-ts.github.io/" target="_blank">Check it out?</a>`,
+
+  "bedroom-tooltip": `Bedroom. Hey! That's my Computer Science Engineer Degree, I hung it on the wall because I'm proud of it. 
+  <a href="https://github.com/atilio-ts/resume/blob/main/certificates/computer-science-engineering-degree.pdf" target="_blank">Check it out?</a>`,
+
+  "goodreads": `Hey! That's my goodreads profile. <a href="https://www.goodreads.com/atilio-ts" target="_blank">Check it out?</a>.
+  I'm currently having a hard time getting back into reading but I'm trying.`,
+
+  "discogs": `Hey! That's my discogs profile. <a href="https://www.discogs.com/user/atilio-ts" target="_blank">Check it out?</a>.
+  I love collecting vinyls and listening to music in general, also I love concerts, my favorite band is 
+  <a href="https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O" target="_blank">Rise Against</a>, if you haven't heard of them I really recommend it.`,
+
+  "letterboxd": `Hey! That's my letterboxd profile. <a href="https://letterboxd.com/atilio_ts/" target="_blank">Check it out?</a>.
+  I love watching movies, specially if they're made during the 90's.`,
+
+  "sleeping-ghost": `Boo. I've probably should be sleeping.`,
+
+  "bedroom-fridge": `I've always wanted to have a fridge in my bedroom and now I can. It's awesome I don't have to go to the kitchen for snacks.`,
+  
+  "social-media-tooltip": `Office. You should checkout my PC, I built it myself and I'm really proud of it.`,
+
+  "social-media-computer": `That's my PC where I get most of the work done (I said most, not all of it). 
+  Hey! some browser tabs are open, you should check them out:
+  <a href="https://www.linkedin.com/in/atilio-ts/" target="_blank">LinkedIn</a>.
+  <a href="https://github.com/atilio-ts" target="_blank">Github</a>.
+  <a href="https://stackoverflow.com/users/11348054/atilio-ts" target="_blank">StackOverflow</a>.
+  <a href="https://www.hackerrank.com/profile/atilio_ts" target="_blank">HackerRank</a>.
+  <a href="https://www.udemy.com/user/atilio-villalba/" target="_blank">Udemy</a>.`,
+
+  "projects-courses-tooltip": `Projects and Course certificates room.`,
+
+  me: `Yup, that's me. You're probably wondering how I ended up in this situation. Well....`,
+
+  "chocolate-milk": `OMG! I love chocolate milk.`,
+
+  "projects-tooltip": `Get close the the chests to see some of my most recent work.`,
+  "backend-project": `That's my Backend Portfolio. <a href="" target="_blank">Check it out?</a>`,
+  "frontend-project": `That's my Frontend Portfolio. <a href="" target="_blank">Check it out?</a>`,
+  "devops-project": `These are some of my devops projects. <a href="" target="_blank">Check them out?</a>`,
+  "cloud-project": `These are some of my cloud projects. <a href="" target="_blank">Check them out?</a>`,
+  "ai-project": `These are some of my AI projects. <a href="" target="_blank">Check them out?</a>`,
+  "portfolio-web": `That's my Portfolio Website. <a href="" target="_blank">Check it out?</a>`,
+  "miscellaneous-project": `These are some of my miscellaneous projects. <a href="" target="_blank">Check them out?</a>`,
+  "old-projects": `That's my old projects grave, I should probably finish them sometime. <a href="" target="_blank">Check it out?</a>`,
+
+  "courses-tooltip": `Get close the the chests to see my course certificates.`,
+  "all-courses": `Hey! you just found all my course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates" target="_blank">Check them out?</a>`,
+  "backend-courses": `Hey! you just found all my backend course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/backend" target="_blank">Check them out?</a>`,
+  "frontend-courses": `Hey! you just found all my frontend course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/frontend" target="_blank">Check them out?</a>`,
+  "devops-courses": `Hey! you just found all my devops course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/devops" target="_blank">Check them out?</a>`,
+  "cloud-platform-courses": `Hey! you just found all my cloud platforms course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/cloud" target="_blank">Check them out?</a>`,
+  "ai-related-courses": `Hey! you just found all my ai related course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/ai-related" target="_blank">Check them out?</a>`,
+  "programming-courses": `Hey! you just found all my programming course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/programming" target="_blank">Check them out?</a>`,
+  "miscellaneous-courses": `Hey! you just found all my soft skill course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/soft-skills" target="_blank">Check them out?</a>`,
+  "other-courses": `Hey! you just found all my language course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/language" target="_blank">Check them out?</a>`,
+  "placeholder-courses": `Just a placeholder. I was about to write something there but I forgot, maybe checkout later.`,
 };

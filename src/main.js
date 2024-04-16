@@ -1,4 +1,4 @@
-import { scaleFactor } from "./constants";
+import { scaleFactor, dialogueData } from "./constants";
 import { kaboomContext } from "./kaboomContext"
 import { displayDialogue, setCamScale } from "./utils";
 
