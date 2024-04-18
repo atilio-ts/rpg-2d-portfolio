@@ -140,6 +140,16 @@ kaboomContext.scene("main", async() => {
     });
     
     function stopAnims() {
+        if (player.direction === "down") {
+            player.play("idle-down");
+            return;
+        }
+        if (player.direction === "up") {
+            player.play("idle-up");
+            return;
+        }
+    
+        player.play("idle-side");
     }
     
     kaboomContext.onMouseRelease(stopAnims);

@@ -42,12 +42,12 @@ export const dialogueData = {
   "chocolate-milk": `OMG! I love chocolate milk.`,
 
   "projects-tooltip": `Get close the the chests to see some of my most recent work.`,
+  "portfolio-web": `That's my Portfolio Website. <a href="" target="_blank">Check it out?</a>`,
   "backend-project": `That's my Backend Portfolio. <a href="" target="_blank">Check it out?</a>`,
   "frontend-project": `That's my Frontend Portfolio. <a href="" target="_blank">Check it out?</a>`,
   "devops-project": `These are some of my devops projects. <a href="" target="_blank">Check them out?</a>`,
   "cloud-project": `These are some of my cloud projects. <a href="" target="_blank">Check them out?</a>`,
   "ai-project": `These are some of my AI projects. <a href="" target="_blank">Check them out?</a>`,
-  "portfolio-web": `That's my Portfolio Website. <a href="" target="_blank">Check it out?</a>`,
   "miscellaneous-project": `These are some of my miscellaneous projects. <a href="" target="_blank">Check them out?</a>`,
   "old-projects": `That's my old projects grave, I should probably finish them sometime. <a href="" target="_blank">Check it out?</a>`,
 
@@ -59,7 +59,7 @@ export const dialogueData = {
   "cloud-platform-courses": `Hey! you just found all my cloud platforms course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/cloud" target="_blank">Check them out?</a>`,
   "ai-related-courses": `Hey! you just found all my ai related course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/ai-related" target="_blank">Check them out?</a>`,
   "programming-courses": `Hey! you just found all my programming course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/programming" target="_blank">Check them out?</a>`,
-  "miscellaneous-courses": `Hey! you just found all my soft skill course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/soft-skills" target="_blank">Check them out?</a>`,
-  "other-courses": `Hey! you just found all my language course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/language" target="_blank">Check them out?</a>`,
+  "soft-skills-courses": `Hey! you just found all my soft skill course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/soft-skills" target="_blank">Check them out?</a>`,
+  "language-courses": `Hey! you just found all my language course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/language" target="_blank">Check them out?</a>`,
   "placeholder-courses": `Just a placeholder. I was about to write something there but I forgot, maybe checkout later.`,
 };
