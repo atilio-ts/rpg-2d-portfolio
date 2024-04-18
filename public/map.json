@@ -542,7 +542,7 @@
                 {
                  "height":12.3636363636364,
                  "id":247,
-                 "name":"programing-courses",
+                 "name":"programming-courses",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -553,7 +553,7 @@
                 {
                  "height":12.3636363636364,
                  "id":248,
-                 "name":"miscellaneous-courses",
+                 "name":"soft-skills-courses",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -564,7 +564,7 @@
                 {
                  "height":11.6363636363636,
                  "id":249,
-                 "name":"other-courses",
+                 "name":"language-courses",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -886,7 +886,7 @@
         {
          "columns":39,
          "firstgid":1,
-         "image":"D:\/Dev Projects\/rpg-portfolio\/public\/spritesheet.png",
+         "image":"spritesheet.png",
          "imageheight":496,
          "imagewidth":624,
          "margin":0,

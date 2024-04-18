@@ -59,7 +59,7 @@ export const dialogueData = {
   "cloud-platform-courses": `Hey! you just found all my cloud platforms course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/cloud" target="_blank">Check them out?</a>`,
   "ai-related-courses": `Hey! you just found all my ai related course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/ai-related" target="_blank">Check them out?</a>`,
   "programming-courses": `Hey! you just found all my programming course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/programming" target="_blank">Check them out?</a>`,
-  "soft-skills-courses": `Hey! you just found all my soft skill course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/soft-skills" target="_blank">Check them out?</a>`,
+  "soft-skills-courses": `Hey! you just found all my soft skills course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/soft-skills" target="_blank">Check them out?</a>`,
   "language-courses": `Hey! you just found all my language course certificates. <a href="https://github.com/atilio-ts/resume/tree/main/certificates/language" target="_blank">Check them out?</a>`,
   "placeholder-courses": `Just a placeholder. I was about to write something there but I forgot, maybe checkout later.`,
 };
