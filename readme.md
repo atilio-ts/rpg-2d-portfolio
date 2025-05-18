@@ -1,23 +1,38 @@
-# RPG Portfolio
+# RPG 2D Portfolio
 
-Inspired by JSLegendDev video, I created my own RPG like 2D Portfolio using javascript and the KaboomJS library.
+An interactive 2D RPG-style portfolio built with JavaScript and KaboomJS, designed to showcase projects and certifications in a gamified environment.
 
-![A screenshot of the project](./developerportfoliothumbnail.png)
+![Screenshot](developerportfoliothumbnail.png)
 
-Live Demo : https://atilio-ts.github.io/rpg-2d-portfolio/
+**Live Demo**: [atilio-ts.github.io/rpg-2d-portfolio](https://atilio-ts.github.io/rpg-2d-portfolio/)
 
-I used a modified version of this original tileset (Giving credit where it's due) : https://momen-games.itch.io/happy-la-v2-ts
+---
 
-# How to run
+## Overview
 
-Note: You need `Node.js` and `npm` installed on your machine.
+This project transforms a traditional developer portfolio into an explorable 2D game world. Users navigate a pixel-art environment to discover sections like Projects, About, and Certifications. The interface is built using the KaboomJS game engine and bundled with Vite.
 
-`npm install` then `npm run dev`
+Inspired by [JSLegendDev's 2D Portfolio](https://jslegenddev.github.io/portfolio/), this implementation adapts the concept with custom content and structure.
 
-# How to build
+---
 
-`npm run build` and a dist folder should be created.
+## Features
 
-# How to preview the build
+- **Game-style Navigation**: Move through a tile-based world to access portfolio sections.
+- **Responsive Layout**: Optimized for both desktop and mobile devices.
+- **Modular Architecture**: Organized codebase for scalability and maintainability.
+- **Custom Tileset**: Utilizes a modified version of the [Happy La V2 Tileset](https://momen-games.itch.io/happy-la-v2-ts).
 
-`npm run preview`
+---
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Installation
+
+```bash
+npm install
